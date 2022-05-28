@@ -10,7 +10,8 @@ Dinosaur Game
 
 If you have any feedback, please reach out to us at playatanu@gmail.com
 
-![Logo](https://github.com/playatanu/assets/blob/main/gamedevplayatanu.png)
+![Logo](https://raw.githubusercontent.com/playatanu/playatanu/main/gamedevplayatanu.png)
+
 
 # Hi, I'm Atanu Debnath! 👋
 
