@@ -3,7 +3,7 @@ Dinosaur Game
 
 ## GamePlay
 
-![App Screenshot](https://github.com/playatanu/assets/blob/main/dino.gif)
+![App Screenshot](https://github.com/playatanu/assets/blob/main/dinosaur-game.gif)
 
 
 ## Feedback
